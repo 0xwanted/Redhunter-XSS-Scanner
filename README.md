@@ -70,5 +70,5 @@ This tool is intended for:
 
 ---
 
-💻 **Happy Hunting!** Visit [wanted1337.lol](https://wanted1337.lol) for more .
+💻 **Happy Hunting!** Visit [0xwanted.wtf](https://0xwanted.wtf) for more .
 ```
